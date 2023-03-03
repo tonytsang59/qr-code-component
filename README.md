@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Built with](#built-with)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -30,4 +28,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 ## Author
 
-- Github - [kaho59](https://github.com/tonytsang59)
+- Github - [tonytsang59](https://github.com/tonytsang59)
